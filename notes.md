@@ -1,5 +1,7 @@
 ## The Good
 
+- Created inline SVG icons and fixed one that was malformed
+- 
 
 ## The Bad & The Ugly
 
@@ -13,3 +15,5 @@
 | Reach Out    | Linen (pale cream) | `#faf0e6` |
 
 - Despite requesting social icons in the original prompt, used text links. Updated on second request, but the GitHub icon was broken.
+- The original experience text included weird content-reference errors.
+- The experience text on both first and second skips my current job and includes incorrect info for some roles and my degreee from NYU
