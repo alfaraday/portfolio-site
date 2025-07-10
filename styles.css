@@ -6,10 +6,10 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  color: #333;
+  color: #000000;
 }
 
-/* Section padding and structure */
+/* Section layout */
 section {
   padding: 60px 20px;
 }
@@ -36,8 +36,8 @@ h1, h2, h3 {
   display: inline-block;
   margin-top: 10px;
   padding: 10px 20px;
-  background: #0073e6;
-  color: #fff;
+  background: #343434;
+  color: #ffffff;
   text-decoration: none;
   border-radius: 4px;
 }
@@ -50,7 +50,7 @@ h1, h2, h3 {
 }
 .card {
   flex: 1 1 calc(33% - 20px);
-  background: #fff;
+  background: #ffffff;
   padding: 20px;
   border-radius: 8px;
   text-align: center;
@@ -69,28 +69,33 @@ ul li {
   margin-bottom: 20px;
 }
 
-/* Social */
+/* Social links */
 .social-icons a {
   margin-right: 10px;
-  color: #0073e6;
+  color: #e9d7b5;
   text-decoration: none;
 }
 
-/* Background colors for each section */
+/* Section-specific backgrounds and text */
 #landing {
-  background-color: #f0f8ff; /* light blue */
+  background-color: #ffffff;
+  color: #000000;
 }
 #about {
-  background-color: #fff8dc; /* cornsilk */
+  background-color: #f6f6f6;
+  color: #000000;
 }
 #work {
-  background-color: #f5f5f5; /* light gray */
+  background-color: #e9d7b5;
+  color: #343434;
 }
 #experience {
-  background-color: #e6f7ff; /* very light cyan */
+  background-color: #b4b0ab;
+  color: #343434;
 }
 #contact {
-  background-color: #faf0e6; /* linen */
+  background-color: #343434;
+  color: #ffffff;
 }
 
 /* Responsive */
