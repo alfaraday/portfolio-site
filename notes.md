@@ -33,3 +33,5 @@ Adjustments needed:
 4. Remove rounded corners.
 5. In the "Landing Page" section, center the text and button elements on the right side.
 6. In the "Sample Work" section, convert the project titles to links.
+
+Some text is contained in divs rather than semantic elements.
