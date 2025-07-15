@@ -25,10 +25,6 @@ body {
     gap: 80px;
 }
 
-.container.reverse {
-    flex-direction: row-reverse;
-}
-
 .half {
     flex: 1;
 }
@@ -252,10 +248,6 @@ body {
     .container {
         flex-direction: column;
         gap: 40px;
-    }
-
-    .container.reverse {
-        flex-direction: column;
     }
 
     .landing h1 {
